@@ -1,4 +1,4 @@
-# Xcode color theme
+# Xcode 8 color theme
 
 <p align="center"><img src="Image.png" /></p>
 
